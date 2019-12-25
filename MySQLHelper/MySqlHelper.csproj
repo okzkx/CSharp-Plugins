@@ -11,7 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\RefrectionTool\RefrectionTool.csproj" />
+    <ProjectReference Include="..\CSharpHelper\CSharpHelper.csproj" />
   </ItemGroup>
 
 </Project>
