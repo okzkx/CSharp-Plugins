@@ -13,7 +13,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZJson", "ZJson\ZJson.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MySqlHelper", "MySQLHelper\MySqlHelper.csproj", "{F4D679D3-0A3B-4687-9CD3-2925B7F72764}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataFormator", "StringFormator\DataFormator.csproj", "{C7CB14B4-1D99-4BC0-97E4-E3C2FBE58551}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharpFormator", "CSharpFormator\CSharpFormator.csproj", "{53FA65AA-4C94-4E0A-AA91-946BD751D00B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,10 +41,10 @@ Global
 		{F4D679D3-0A3B-4687-9CD3-2925B7F72764}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4D679D3-0A3B-4687-9CD3-2925B7F72764}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4D679D3-0A3B-4687-9CD3-2925B7F72764}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C7CB14B4-1D99-4BC0-97E4-E3C2FBE58551}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C7CB14B4-1D99-4BC0-97E4-E3C2FBE58551}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C7CB14B4-1D99-4BC0-97E4-E3C2FBE58551}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C7CB14B4-1D99-4BC0-97E4-E3C2FBE58551}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53FA65AA-4C94-4E0A-AA91-946BD751D00B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53FA65AA-4C94-4E0A-AA91-946BD751D00B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53FA65AA-4C94-4E0A-AA91-946BD751D00B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53FA65AA-4C94-4E0A-AA91-946BD751D00B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
